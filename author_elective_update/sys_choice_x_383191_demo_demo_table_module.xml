@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="module" table="x_383191_demo_demo_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>module</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>App Dev Overview</label>
+            <language>en</language>
+            <name>x_383191_demo_demo_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-06 21:13:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6dfb8e71db6500104da2656b4b96195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-06 21:13:30</sys_updated_on>
+            <value>app dev overview</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>module</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Analysis and Design</label>
+            <language>en</language>
+            <name>x_383191_demo_demo_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-06 21:13:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25fb8e71db6500104da2656b4b96195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-06 21:13:30</sys_updated_on>
+            <value>analysis and design</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>module</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Create App and Modules</label>
+            <language>en</language>
+            <name>x_383191_demo_demo_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-06 21:13:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25fb8e71db6500104da2656b4b96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-06 21:13:30</sys_updated_on>
+            <value>create app and modules</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>module</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application Forms</label>
+            <language>en</language>
+            <name>x_383191_demo_demo_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-06 21:13:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25fb8e71db6500104da2656b4b96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-06 21:13:30</sys_updated_on>
+            <value>application forms</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>module</element>
+            <name>x_383191_demo_demo_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-06 21:13:30</sys_created_on>
+            <sys_id>e5fb8e71db6500104da2656b4b96195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>module</sys_name>
+            <sys_package display_value="Demo" source="x_383191_demo">5f79ce7ddb2500104da2656b4b9619c5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo">5f79ce7ddb2500104da2656b4b9619c5</sys_scope>
+            <sys_update_name>sys_choice_x_383191_demo_demo_table_module</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-06 21:13:30</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
